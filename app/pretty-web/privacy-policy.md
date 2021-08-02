@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-Thank you for choosing PrettyWeb. PrettyWeb(“we” or “us” or “our”) respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application. Please read this Privacy Policy carefully. **IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.**
+Thank you for choosing PrettyWeb. PrettyWeb (“we” or “us” or “our”) respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile application. Please read this Privacy Policy carefully. **IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION.**
 
 This Privacy Policy does not apply to the third-party online/mobile store from which you install the application or make payments, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
 
